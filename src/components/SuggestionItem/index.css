@@ -1,0 +1,21 @@
+/* Write your CSS here */
+
+* {
+  font-family: 'Roboto';
+}
+
+li {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  color: #475569;
+}
+
+.button-style {
+  background-color: transparent;
+  border-width: 0px;
+}
+
+.image {
+  height: 25px;
+}
